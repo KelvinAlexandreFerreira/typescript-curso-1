@@ -3,3 +3,6 @@
 2. Um pouco sobre módulos do ECMASCRIPT
 3. Modelagem de uma Negociação em Javascript
 4. Buracos em nossa modelagem por limitações da linguagem Javascript
+
+### Comandos:
+npm install typescript@4.2.2 --save-dev
