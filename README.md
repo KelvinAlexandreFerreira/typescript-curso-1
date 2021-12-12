@@ -11,3 +11,11 @@ npm install typescript@4.2.2 --save-dev
 npm run compile
 npm run watch
 npm run start
+
+### Nesta aula, aprendemos:
+
+1. Download do TypeScript
+2. Configuração do compilador e papel do tsconfig.json
+3. Integração com scripts do Node.js
+4. Modificadores de acesso private e public
+5. Benefícios iniciais da linguagem TypeScript
