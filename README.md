@@ -3,3 +3,19 @@
 2. Um pouco sobre módulos do ECMASCRIPT
 3. Modelagem de uma Negociação em Javascript
 4. Buracos em nossa modelagem por limitações da linguagem Javascript
+
+### Comandos:
+npm install typescript@4.2.2 --save-dev
+
+### Comandos:
+npm run compile
+npm run watch
+npm run start
+
+### Nesta aula, aprendemos:
+
+1. Download do TypeScript
+2. Configuração do compilador e papel do tsconfig.json
+3. Integração com scripts do Node.js
+4. Modificadores de acesso private e public
+5. Benefícios iniciais da linguagem TypeScript
