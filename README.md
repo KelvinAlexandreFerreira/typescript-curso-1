@@ -35,3 +35,6 @@ npm run start
 3. O modificador readonly
 4. Getters vs propriedades públicas em modo de leitura
 5. Programação defensiva
+
+### Iniciando novo curso no mesmo projeto:
+### TypeScript parte 2: Avançando na linguagem
