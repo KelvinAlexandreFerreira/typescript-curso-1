@@ -27,3 +27,11 @@ npm run start
 3. Mais configurações do compilador tsc
 4. Retorno de método explícito
 5. Conversão de valores da interface do usuário
+
+### Nesta aula, aprendemos:
+
+1. Nova maneira de declaração de array com generics
+2. O tipo ReadonlyArray
+3. O modificador readonly
+4. Getters vs propriedades públicas em modo de leitura
+5. Programação defensiva
