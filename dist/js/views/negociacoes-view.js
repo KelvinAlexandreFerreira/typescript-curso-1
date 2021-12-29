@@ -1,4 +1,4 @@
-import { View } from "./view";
+import { View } from "./view.js";
 export class NegociacoesView extends View {
     template(model) {
         return `
@@ -23,10 +23,5 @@ export class NegociacoesView extends View {
             </tbody>
         </table>
         `;
-    }
-    update(model) {
-        const template = this.template(model);
-        console.log(template);
-        this.elemento.innerHTML = template;
     }
 }
