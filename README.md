@@ -38,3 +38,17 @@ npm run start
 
 ### Iniciando novo curso no mesmo projeto:
 ### TypeScript parte 2: Avançando na linguagem
+
+### Nesta aula, aprendemos:
+
+1. Inspiração no React para criação de templates declarativos e dinâmicos
+2. Manipulação declarativa do DOM através de template
+3. Template dinâmico
+4. Formatação de datas usando Intl
+
+### Nesta aula, aprendemos:
+
+1. Herança com TypeScript
+2. Classes com tipo genérico
+3. Classes abstratas
+4. O modificador protected
