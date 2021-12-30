@@ -45,3 +45,10 @@ npm run start
 2. Manipulação declarativa do DOM através de template
 3. Template dinâmico
 4. Formatação de datas usando Intl
+
+### Nesta aula, aprendemos:
+
+1. Herança com TypeScript
+2. Classes com tipo genérico
+3. Classes abstratas
+4. O modificador protected
