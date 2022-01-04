@@ -52,3 +52,10 @@ npm run start
 2. Classes com tipo genérico
 3. Classes abstratas
 4. O modificador protected
+
+### Nesta aula, aprendemos:
+
+1. Visibilidade de métodos
+2. Validando negociações em dias úteis
+3. Vantagens do uso de enums
+4. Cuidados com enums
