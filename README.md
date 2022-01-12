@@ -59,3 +59,9 @@ npm run start
 2. Validando negociações em dias úteis
 3. Vantagens do uso de enums
 4. Cuidados com enums
+
+### Nesta aula, aprendemos:
+
+1. Revisão da lógica de conversão negociações
+2. Método estáticos
+3. Parâmetros opcionais
