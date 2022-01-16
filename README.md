@@ -65,3 +65,10 @@ npm run start
 1. Revisão da lógica de conversão negociações
 2. Método estáticos
 3. Parâmetros opcionais
+
+### Nesta aula, aprendemos:
+
+1. Remoção de comentários do código compilado
+2. Ativação do strictNullChecks
+3. Como suprimir erros, quando fizer sentido, resultantes do strictNullChecks
+4. Benefícios do strictNullChecks no controle do fluxo da sua aplicação
